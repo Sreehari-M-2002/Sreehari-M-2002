@@ -1,28 +1,88 @@
-# 💫 About Me:
-Hi, I'm Sreehari M 👋<br><br>💻 Python Full Stack Developer | ECE Graduate | Django Developer<br><br>I'm a Python Full Stack Developer passionate about building responsive, user-friendly web applications and working with backend technologies, databases, and APIs.<br><br>🛠️ Tech Stack<br><br>Frontend<br><br> HTML, CSS, Bootstrap<br><br>Backend<br><br> Python, Django<br><br>Databases<br><br> MySQL,PostgreSQL<br><br>Tools & Others<br><br> GitHub, Postman, LaTeX<br><br>🚀 About Me<br><br>- 🔭 Currently working on improving my Python & Django Full Stack skills<br>- 🌱 Interested in web development, APIs, IoT & AI-based applications<br>- 🧩 Enjoy solving problems and building practical applications<br>- 🤝 Open to learning, collaborating, and contributing to projects<br><br>📌 Featured Projects<br><br>EcoAlert<br>LoRa-based smart wildlife detection and alert system integrating CNN image processing, sensors, GPS and GSM.<br><br>TrackSense<br>IoT and image-based railway track inspection system using ESP32, sensors, GPS and remote monitoring.<br><br>🎓 Education<br><br>B.Tech – Electronics & Communication Engineering<br>APJ Abdul Kalam Technological University | 2021–2025<br><br>📍 Kerala, India<br><br>---<br><br>⭐ Learning • Building • Improving
+# 💫 About Me
 
+Hi, I'm **Sreehari M** 👋
 
-# 💻 Tech Stack:
-# 💻 Tech Stack:
+💻 **Python Full Stack Developer** | 🎓 **ECE Graduate** | 🐍 **Django Developer**
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sreehari-M-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sreehari-M-2002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sreehari-M-2002&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm a Python Full Stack Developer passionate about building **responsive, user-friendly web applications**, working with backend technologies, databases, REST APIs, and practical IoT solutions.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Sreehari-M-2002&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🛠️ Tech Stack
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+---
+
+## 🚀 What I'm Working On
+
+- 🔭 Improving my **Python & Django Full Stack** skills
+- 🌱 Exploring **REST APIs, IoT & AI-based applications**
+- 🧩 Solving problems and building practical applications
+- 🤝 Open to **learning, collaboration & contributing** to projects
+
+---
+
+## 📌 Featured Projects
+
+### 🌿 EcoAlert
+
+**LoRa-based Smart Wildlife Detection & Alert System**
+
+> A smart wildlife monitoring system integrating **CNN image processing, sensors, GPS and GSM** to detect and alert about wildlife activity.
+
+**Tech:** `Python` `CNN` `LoRa` `GPS` `GSM` `IoT`
+
+---
+
+### 🚆 TrackSense
+
+**IoT & Image-Based Railway Track Inspection System**
+
+> A railway track monitoring solution using **ESP32, sensors, GPS and image processing** with remote monitoring capabilities.
+
+**Tech:** `ESP32` `IoT` `Sensors` `GPS` `Image Processing`
+
+---
+
+## 🎓 Education
+
+**B.Tech – Electronics & Communication Engineering**
+
+APJ Abdul Kalam Technological University  
+**2021 – 2025**
+
+📍 Kerala, India
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=Sreehari-M-2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=Sreehari-M-2002&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sreehari-M-2002&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+## 🌐 Let's Connect
+
+💡 **Learning • Building • Improving**
+
+⭐ Always interested in **Web Development • APIs • IoT • AI**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sreehari-M-2002&style=for-the-badge&color=0e75b6)
